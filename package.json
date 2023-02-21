@@ -1,0 +1,22 @@
+{
+  "name": "coin-collector",
+  "version": "1.0.0",
+  "description": "Multiverse intro project ",
+  "main": "coins.js",
+  "scripts": {
+    "test": "jest --watch-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suprame4/coin-collector.git"
+  },
+  "author": "Adrian G.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suprame4/coin-collector/issues"
+  },
+  "homepage": "https://github.com/Suprame4/coin-collector#readme",
+  "dependencies": {
+    "jest": "^29.4.3"
+  }
+}
